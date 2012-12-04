@@ -1,0 +1,32 @@
+magic
+tech scmos
+timestamp 1348671496
+<< metal1 >>
+rect 18 89 22 92
+rect 53 89 57 92
+rect 88 89 92 92
+rect 123 89 127 92
+<< metal2 >>
+rect -17 58 -14 76
+rect -17 41 -14 45
+rect -17 18 -14 36
+rect 140 1 143 5
+use csrlend  csrlend_0
+timestamp 1348671188
+transform 1 0 -17 0 1 0
+box 0 11 20 81
+use csrldff  csrldff_0
+array 0 3 35 0 0 92
+timestamp 1348671001
+transform 1 0 3 0 1 0
+box -3 0 35 92
+<< labels >>
+rlabel metal2 -16 67 -16 67 7 Vdd
+rlabel metal2 -16 43 -16 43 7 in
+rlabel metal2 -16 27 -16 27 7 Gnd
+rlabel metal1 20 91 20 91 1 out0
+rlabel metal1 55 91 55 91 1 out1
+rlabel metal1 90 91 90 91 1 out2
+rlabel metal1 125 91 125 91 1 out3
+rlabel metal2 142 4 142 4 3 clk
+<< end >>
