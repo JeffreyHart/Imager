@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+
+import os, sys
+
+infile = open(sys.argv[1], 'r')
+outfile = open(sys.argv[2], 'w')
+
+for line in infile:
+    if line.find('nmos3')!=-1:
+        outfile.write('M'+line.replace('nmos3', '0 nfet'))
+    elif line.find('pmos3')!=-1:
+        outfile.write('M'+line.replace('pmos3', 'Vdd pfet'))
+    else:
+        outfile.write(line)
+
+infile.close()
+outfile.close()

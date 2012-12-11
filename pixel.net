@@ -1,0 +1,15 @@
+* Z:\home\eric\Documents\MADVLSI\Project\pixel.asc
+XU1 POS N002 N003 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU4 N003 RS P001 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+V1 POS 0 5
+V2 Reset 0 PULSE(0 5 .1p .1n .1n 10u 20u 10)
+V3 Shutter 0 PULSE(0 5 10u .1n .1n 5u 20u 10)
+V4 RS 0 PULSE(0 5 15.5u .1n .1n 3u 20u 10)
+I1 N001 0 20n
+C1 P001 0 20p
+XU2 POS Reset N001 nmos3 W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+XU3 N002 Shutter N001 nmos3 W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+.include engr3426.sub
+.tran 0 200u 0
+.backanno
+.end

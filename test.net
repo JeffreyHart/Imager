@@ -1,0 +1,12 @@
+* Z:\home\eric\Documents\MADVLSI\Project\test.asc
+XU1 P001 vdd
+V1 P001 0 5
+XU2 N001 N001 N002 nmos3
+I1 N002 0 10µ
+I2 P002 N001 5µ
+XU3 P002 vdd
+C1 N001 0 10p
+.include engr3426.sub
+.tran 2u
+.backanno
+.end
