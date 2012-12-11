@@ -1,0 +1,42 @@
+* SPICE3 file created from diffamp.ext - technology: scmos
+
+M1000 a_1_95# a_n20_116# w_n20_86# w_n20_86# pfet w=6u l=1.2u
++ ad=39.6p pd=61.2u as=43.2p ps=62.4u 
+M1001 w_n20_86# a_n20_116# a_1_95# w_n20_86# pfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1002 a_25_54# a_n20_87# a_1_95# w_n20_86# pfet w=6u l=1.2u
++ ad=10.8p pd=15.6u as=0p ps=0u 
+M1003 a_1_95# a_n20_87# a_25_54# w_n20_86# pfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1004 a_45_92# a_45_92# a_1_95# w_n20_86# pfet w=6u l=1.2u
++ ad=21.6p pd=31.2u as=0p ps=0u 
+M1005 a_1_95# a_45_92# a_45_92# w_n20_86# pfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1006 a_45_92# a_45_92# a_68_95# w_n20_86# pfet w=6u l=1.2u
++ ad=0p pd=0u as=39.6p ps=61.2u 
+M1007 a_68_95# a_45_92# a_45_92# w_n20_86# pfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1008 a_73_54# a_n20_87# a_68_95# w_n20_86# pfet w=6u l=1.2u
++ ad=10.8p pd=15.6u as=0p ps=0u 
+M1009 a_68_95# a_n20_87# a_73_54# w_n20_86# pfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1010 a_68_95# a_n20_116# w_n20_86# w_n20_86# pfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1011 w_n20_86# a_n20_116# a_68_95# w_n20_86# pfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1012 a_25_54# a_25_54# w_n1_51# w_n1_51# nfet w=6u l=1.2u
++ ad=10.8p pd=15.6u as=57.6p ps=91.2u 
+M1013 w_n1_51# a_25_54# a_25_54# w_n1_51# nfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1014 a_45_92# a_25_54# w_n1_51# w_n1_51# nfet w=6u l=1.2u
++ ad=21.6p pd=31.2u as=0p ps=0u 
+M1015 w_n1_51# a_25_54# a_45_92# w_n1_51# nfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1016 a_45_92# a_73_54# w_n1_51# w_n1_51# nfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1017 w_n1_51# a_73_54# a_45_92# w_n1_51# nfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 
+M1018 a_73_54# a_73_54# w_n1_51# w_n1_51# nfet w=6u l=1.2u
++ ad=10.8p pd=15.6u as=0p ps=0u 
+M1019 w_n1_51# a_73_54# a_73_54# w_n1_51# nfet w=6u l=1.2u
++ ad=0p pd=0u as=0p ps=0u 

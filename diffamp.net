@@ -1,0 +1,23 @@
+* Z:\home\eric\Documents\MADVLSI\Imager\diffamp.asc
+M2 N001 Vb Vdd Vdd pfet l=1.2u w=6u
+M3 N001 Vb Vdd Vdd pfet l=1.2u w=6u
+M7 N003 N003 0 0 nfet l=1.2u w=6u
+M8 N003 N003 0 0 nfet l=1.2u w=6u
+M9 Vout N003 0 0 nfet l=1.2u w=6u
+M10 Vout N003 0 0 nfet l=1.2u w=6u
+M21 N003 Vin N001 Vdd pfet l=1.2u w=6u
+M4 N003 Vin N001 Vdd pfet l=1.2u w=6u
+M5 Vout Vout N001 Vdd pfet l=1.2u w=6u
+M6 Vout Vout N001 Vdd pfet l=1.2u w=6u
+M1 N002 Vb Vdd Vdd pfet l=1.2u w=6u
+M11 N002 Vb Vdd Vdd pfet l=1.2u w=6u
+M12 N004 N004 0 0 nfet l=1.2u w=6u
+M13 N004 N004 0 0 nfet l=1.2u w=6u
+M14 Vout N004 0 0 nfet l=1.2u w=6u
+M15 Vout N004 0 0 nfet l=1.2u w=6u
+M16 N004 Vin N002 Vdd pfet l=1.2u w=6u
+M17 N004 Vin N002 Vdd pfet l=1.2u w=6u
+M18 Vout Vout N002 Vdd pfet l=1.2u w=6u
+M19 Vout Vout N002 Vdd pfet l=1.2u w=6u
+.backanno
+.end

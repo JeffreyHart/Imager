@@ -1,0 +1,12 @@
+                                                                    
+Subcircuit summary:
+Circuit 1: diffamp.net                     |Circuit 2: diffamp.spice                   
+-------------------------------------------|-------------------------------------------
+pfet (12)                                  |pfet (12)                                  
+nfet (8)                                   |nfet (8)                                   
+Number of elements: 20                     |Number of elements: 20                     
+Number of nodes: 9                         |Number of nodes: 9                         
+---------------------------------------------------------------------------------------
+Circuits match with 7 automorphisms.
+Graphs match with 7 automorphisms.
+Circuits match correctly.

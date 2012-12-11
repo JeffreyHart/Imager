@@ -1,28 +1,15 @@
 magic
 tech scmos
-timestamp 1355186776
+timestamp 1355247886
 << nwell >>
-rect -4 7 26 47
-<< pwell >>
 rect -4 47 26 87
+<< pwell >>
+rect -4 7 26 47
 << ntransistor >>
-rect 12 53 14 59
-<< ptransistor >>
 rect 12 13 14 19
+<< ptransistor >>
+rect 12 53 14 59
 << ndiffusion >>
-rect 14 80 20 81
-rect 14 76 15 80
-rect 19 76 20 80
-rect 14 75 20 76
-rect 6 58 12 59
-rect 6 54 7 58
-rect 11 54 12 58
-rect 6 53 12 54
-rect 14 58 20 59
-rect 14 54 15 58
-rect 19 54 20 58
-rect 14 53 20 54
-<< pdiffusion >>
 rect 14 40 20 41
 rect 14 36 15 40
 rect 19 36 20 40
@@ -35,28 +22,41 @@ rect 14 18 20 19
 rect 14 14 15 18
 rect 19 14 20 18
 rect 14 13 20 14
+<< pdiffusion >>
+rect 14 80 20 81
+rect 14 76 15 80
+rect 19 76 20 80
+rect 14 75 20 76
+rect 6 58 12 59
+rect 6 54 7 58
+rect 11 54 12 58
+rect 6 53 12 54
+rect 14 58 20 59
+rect 14 54 15 58
+rect 19 54 20 58
+rect 14 53 20 54
 << ndcontact >>
-rect 15 76 19 80
-rect 7 54 11 58
-rect 15 54 19 58
-<< pdcontact >>
 rect 15 36 19 40
 rect 7 14 11 18
 rect 15 14 19 18
+<< pdcontact >>
+rect 15 76 19 80
+rect 7 54 11 58
+rect 15 54 19 58
 << psubstratepdiff >>
-rect 13 69 19 70
-rect 13 65 14 69
-rect 18 65 19 69
-rect 13 64 19 65
-<< nsubstratendiff >>
 rect 0 18 6 19
 rect 0 14 1 18
 rect 5 14 6 18
 rect 0 13 6 14
+<< nsubstratendiff >>
+rect 13 69 19 70
+rect 13 65 14 69
+rect 18 65 19 69
+rect 13 64 19 65
 << psubstratepcontact >>
-rect 14 65 18 69
-<< nsubstratencontact >>
 rect 1 14 5 18
+<< nsubstratencontact >>
+rect 14 65 18 69
 << polysilicon >>
 rect 12 59 14 61
 rect 12 52 14 53
@@ -91,21 +91,21 @@ rect 15 59 19 63
 rect 15 41 19 45
 rect 1 19 5 23
 << metal2 >>
-rect 0 75 20 76
-rect 0 71 15 75
+rect -4 75 20 76
+rect -4 71 15 75
 rect 19 71 20 75
-rect 0 63 20 71
-rect 0 59 15 63
+rect -4 63 20 71
+rect -4 59 15 63
 rect 19 59 20 63
-rect 0 58 20 59
-rect 0 41 15 45
-rect 0 23 20 36
-rect 0 19 1 23
+rect -4 58 20 59
+rect -4 41 15 45
+rect -4 23 20 36
+rect -4 19 1 23
 rect 5 19 20 23
-rect 0 18 20 19
+rect -4 18 20 19
 << labels >>
 rlabel metal2 2 67 2 67 3 pos
 rlabel metal2 2 27 2 27 3 neg
 rlabel metal2 2 43 2 43 3 in
-rlabel pdcontact 17 16 17 16 8 out
+rlabel ndcontact 17 16 17 16 8 out
 << end >>
