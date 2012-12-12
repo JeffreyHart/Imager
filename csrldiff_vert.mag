@@ -1,6 +1,6 @@
 magic
 tech scmos
-timestamp 1355192033
+timestamp 1355270239
 << nwell >>
 rect -69 2967 -20 3081
 << pwell >>
@@ -475,8 +475,9 @@ rect -53 2987 -45 2991
 rect -41 2987 -40 2991
 rect -58 2973 -40 2987
 << metal3 >>
-rect -20 3025 -15 3075
+rect -20 3025 -4 3075
 rect -20 3020 -3 3025
+rect -20 2967 -4 3020
 << labels >>
 rlabel pdiffusion -38 3060 -38 3060 5 pos1
 rlabel pdiffusion -60 3060 -60 3060 5 pos2

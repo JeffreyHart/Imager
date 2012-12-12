@@ -1,30 +1,6 @@
 magic
 tech scmos
-timestamp 1355274109
-<< metal1 >>
-rect 629 4481 669 4491
-rect 662 4275 669 4481
-rect 662 4260 4217 4275
-<< metal2 >>
-rect 649 4259 652 4269
-rect 655 4259 658 4269
-rect 4332 625 4336 635
-rect 4243 594 4248 614
-rect 4420 594 4425 614
-<< m3contact >>
-rect 596 4466 612 4487
-rect 606 571 633 589
-<< metal3 >>
-rect 543 4487 658 4488
-rect 543 4466 596 4487
-rect 612 4466 658 4487
-rect 543 702 658 4466
-rect 543 589 4220 702
-rect 543 571 606 589
-rect 633 576 4220 589
-rect 633 571 4420 576
-rect 543 556 4420 571
-rect 543 550 4220 556
+timestamp 1355270321
 use blankpad  blankpad_11
 timestamp 1259953556
 transform -1 0 841 0 -1 5000
@@ -98,7 +74,7 @@ timestamp 1259953556
 transform 0 1 0 -1 0 1315
 box -2 0 476 513
 use imager_nopads  imager_nopads_0
-timestamp 1355273006
+timestamp 1355270321
 transform 1 0 662 0 1 705
 box -116 -152 3558 3579
 use blankpad  blankpad_2
@@ -134,8 +110,8 @@ timestamp 1259953556
 transform 0 -1 5000 1 0 841
 box -2 0 476 513
 use diffamp  diffamp_0
-timestamp 1355272872
-transform 1 0 4268 0 1 499
+timestamp 1355258800
+transform 0 -1 4397 1 0 575
 box -20 51 152 128
 use padframe_left  padframe_left_0
 timestamp 1259953556

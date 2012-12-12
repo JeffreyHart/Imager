@@ -1,6 +1,6 @@
 magic
 tech scmos
-timestamp 1355189358
+timestamp 1355270760
 << pwell >>
 rect -3 -6 102 99
 << ntransistor >>
@@ -180,8 +180,9 @@ rect 26 58 30 61
 rect 17 53 20 58
 rect 36 53 39 69
 rect 60 53 63 69
+rect 96 62 99 99
 rect 69 58 73 61
-rect 82 59 96 62
+rect 82 59 99 62
 rect 79 53 82 58
 rect 17 44 20 49
 rect 36 44 39 49
@@ -196,11 +197,12 @@ rect 36 24 39 40
 rect 60 24 63 40
 rect 79 35 82 40
 rect 69 32 73 35
-rect 82 31 96 34
+rect 82 31 99 34
 rect 36 21 51 24
 rect 37 20 41 21
 rect 48 0 51 21
 rect 62 21 63 24
+rect 96 0 99 31
 << m2contact >>
 rect 58 69 62 73
 rect 16 65 20 69
