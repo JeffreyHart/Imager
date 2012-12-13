@@ -1,0 +1,19 @@
+* Z:\home\eric\Documents\MADVLSI\Imager\pixel_lvs2.asc
+XU1 POS N002 N005 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU4 N005 RS N007 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU2 POS Reset N001 nmos3 W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+XU3 N002 Shutter N001 nmos3 W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU5 POS N012 N009 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU6 N009 RS2 N007 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU7 POS Reset N011 nmos3 W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+XU8 N012 Shutter N011 nmos3 W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU9 POS N003 N006 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU10 N006 RS N008 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU11 POS Reset N004 nmos3 W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+XU12 N003 Shutter N004 nmos3 W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU13 POS N013 N010 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU14 N010 RS2 N008 nmos3 W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+XU15 POS Reset N014 nmos3 W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+XU16 N013 Shutter N014 nmos3 W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+.backanno
+.end

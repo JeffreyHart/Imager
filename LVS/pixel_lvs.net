@@ -1,0 +1,31 @@
+* Z:\home\eric\Documents\MADVLSI\Imager\pixel_lvs.asc
+XU2 N015 Vbp Vdd pmos3 W=0.9u L=0.6u
+XU3 Vdd Reset N001 nmos3 W=0.9u L=0.6u
+XU4 N002 Shutter N001 nmos3 W=0.9u L=0.6u
+XU5 Vdd N002 N005 nmos3 W=0.9u L=0.6u
+XU6 N005 RS N007 nmos3 W=0.9u L=0.6u
+XU7 N007 RS2 N009 nmos3 W=0.9u L=0.6u
+XU8 N012 Shutter N011 nmos3 W=0.9u L=0.6u
+XU9 N011 Reset Vdd nmos3 W=0.9u L=0.6u
+XU10 N009 N012 Vdd nmos3 W=0.9u L=0.6u
+XU11 N015 col1 out nmos3 W=0.9u L=0.6u
+XU12 N015 N015 N017 nmos3 W=0.9u L=0.6u
+XU13 N017 Vdd N007 nmos3 W=0.9u L=0.6u
+XU14 N007 Vbn 0 nmos3 W=0.9u L=0.6u
+XU15 N007 Vbn 0 nmos3 W=0.9u L=0.6u
+XU1 N016 Vbp Vdd pmos3 W=0.9u L=0.6u
+XU16 Vdd Reset N004 nmos3 W=0.9u L=0.6u
+XU17 N003 Shutter N004 nmos3 W=0.9u L=0.6u
+XU18 Vdd N003 N006 nmos3 W=0.9u L=0.6u
+XU19 N006 RS N008 nmos3 W=0.9u L=0.6u
+XU20 N008 RS2 N010 nmos3 W=0.9u L=0.6u
+XU21 N013 Shutter N014 nmos3 W=0.9u L=0.6u
+XU22 N014 Reset Vdd nmos3 W=0.9u L=0.6u
+XU23 N010 N013 Vdd nmos3 W=0.9u L=0.6u
+XU24 N016 col2 out nmos3 W=0.9u L=0.6u
+XU25 N016 N016 N018 nmos3 W=0.9u L=0.6u
+XU26 N018 Vdd N008 nmos3 W=0.9u L=0.6u
+XU27 N008 Vbn 0 nmos3 W=0.9u L=0.6u
+XU28 N008 Vbn 0 nmos3 W=0.9u L=0.6u
+.backanno
+.end

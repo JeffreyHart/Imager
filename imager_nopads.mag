@@ -1,23 +1,27 @@
 magic
 tech scmos
-timestamp 1355249193
+timestamp 1355370250
 use csrlend  csrlend_1
 timestamp 1355247886
-transform 0 1 -116 -1 0 3575
+transform 0 1 -116 -1 0 3595
 box -4 7 26 87
 use csrldiff_vert  csrldiff_vert_1
 array 0 0 113 0 36 96
-timestamp 1355192033
+timestamp 1355369891
 transform 1 0 0 0 1 -2976
-box -116 2967 -3 3081
+box -116 2979 -3 3101
 use pixel_2.1  pixel_2.1_0
 array 0 36 96 0 36 96
-timestamp 1355189358
+timestamp 1355364639
 transform 1 0 0 0 1 0
 box -3 -6 102 99
+use biasgenerator  biasgenerator_0
+timestamp 1355369575
+transform 1 0 24 0 1 -2
+box -48 -47 -24 -4
 use columnamplifier  columnamplifier_0
 array 0 36 96 0 0 66
-timestamp 1355185946
+timestamp 1355358920
 transform 1 0 0 0 1 0
 box -3 -60 102 6
 use csrlend  csrlend_0

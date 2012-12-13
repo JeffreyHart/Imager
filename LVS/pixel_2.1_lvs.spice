@@ -1,0 +1,34 @@
+* SPICE3 file created from pixel_2.1_lvs.ext - technology: scmos
+
+M1000 a_3_48# a_20_24# a_23_48# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=126.72p pd=64.2u as=1.71p ps=5.4u 
+M1001 a_16_31# a_10_37# a_3_48# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=14.76p pd=45.6u as=0p ps=0u 
+M1002 a_51_61# a_20_24# a_68_61# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=126.72p pd=64.2u as=1.71p ps=5.4u 
+M1003 a_51_61# a_10_37# a_16_31# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1004 a_25_50# a_23_48# a_16_31# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=2.16p pd=6.6u as=0p ps=0u 
+M1005 a_35_40# a_33_48# a_25_50# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=3.42p pd=10.8u as=0p ps=0u 
+M1006 a_66_50# a_33_48# a_59_40# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=2.16p pd=6.6u as=3.42p ps=10.8u 
+M1007 a_16_31# a_68_61# a_66_50# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1008 a_25_40# a_23_37# a_16_31# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=2.16p pd=6.6u as=0p ps=0u 
+M1009 a_35_40# a_33_35# a_25_40# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1010 a_66_40# a_33_35# a_59_40# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=2.16p pd=6.6u as=0p ps=0u 
+M1011 a_16_31# a_68_28# a_66_40# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1012 a_16_31# a_10_37# a_3_0# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=126.72p ps=64.2u 
+M1013 a_23_37# a_20_24# a_3_0# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=1.71p pd=5.4u as=0p ps=0u 
+M1014 a_51_0# a_10_37# a_16_31# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=126.72p pd=64.2u as=0p ps=0u 
+M1015 a_68_28# a_20_24# a_51_0# w_n3_n6# nfet w=0.9u l=0.6u
++ ad=1.71p pd=5.4u as=0p ps=0u 
