@@ -1,6 +1,6 @@
 magic
 tech scmos
-timestamp 1355364639
+timestamp 1355364263
 << pwell >>
 rect -3 -6 102 99
 << ntransistor >>
@@ -162,7 +162,8 @@ rect 20 24 24 28
 rect 85 37 89 41
 rect 75 24 79 28
 << metal1 >>
-rect 0 62 3 99
+rect 0 102 99 105
+rect 0 62 3 102
 rect 37 72 41 73
 rect 48 72 51 99
 rect 36 69 51 72
@@ -172,7 +173,7 @@ rect 26 58 30 61
 rect 17 53 20 58
 rect 36 53 39 69
 rect 60 53 63 69
-rect 96 62 99 99
+rect 96 62 99 102
 rect 69 58 73 61
 rect 82 59 99 62
 rect 79 53 82 58
@@ -212,7 +213,8 @@ rect 58 20 62 24
 << metal2 >>
 rect 48 72 51 99
 rect 48 69 58 72
-rect -3 66 16 69
+rect -11 66 16 69
+rect -11 27 -8 66
 rect 20 66 34 69
 rect 65 66 79 69
 rect 31 63 68 66
@@ -232,7 +234,7 @@ rect -3 31 17 34
 rect 47 33 52 34
 rect 56 34 85 37
 rect 82 31 96 34
-rect -3 24 16 27
+rect -11 24 16 27
 rect 31 27 68 30
 rect 20 24 34 27
 rect 65 24 79 27
@@ -253,18 +255,4 @@ rect 55 40 86 44
 rect 13 35 86 40
 rect 13 24 35 35
 rect 64 24 86 35
-<< labels >>
-rlabel metal2 95 67 95 67 7 Shutter
-rlabel metal2 93 47 93 47 1 Reset
-rlabel metal2 4 67 4 67 3 Shutter
-rlabel metal2 6 47 6 47 1 Reset
-rlabel metal1 2 89 2 89 1 Vdd
-rlabel metal2 1 60 1 60 3 Row
-rlabel metal2 1 32 1 32 3 Row
-rlabel metal2 95 32 95 32 7 Row
-rlabel metal2 95 60 95 60 7 Row
-rlabel metal2 49 95 49 95 5 Column
-rlabel metal2 95 26 95 26 7 Shutter
-rlabel metal2 4 26 4 26 3 Shutter
-rlabel metal1 2 4 2 4 5 Vdd
 << end >>

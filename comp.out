@@ -1,12 +1,11 @@
-                                                                    
+                                  
 Subcircuit summary:
-Circuit 1: diffamp.net                     |Circuit 2: diffamp.spice                   
+Circuit 1: pixel_fixed.net                 |Circuit 2: pixel_2.1_lvs.spice             
 -------------------------------------------|-------------------------------------------
-pfet (12)                                  |pfet (12)                                  
-nfet (8)                                   |nfet (8)                                   
-Number of elements: 20                     |Number of elements: 20                     
-Number of nodes: 9                         |Number of nodes: 9                         
+nfet (16)                                  |nfet (16)                                  
+Number of elements: 16                     |Number of elements: 16                     
+Number of nodes: 20                        |Number of nodes: 20                        
 ---------------------------------------------------------------------------------------
-Circuits match with 7 automorphisms.
-Graphs match with 7 automorphisms.
+Circuits match with 9 automorphisms.
+Graphs match with 9 automorphisms.
 Circuits match correctly.

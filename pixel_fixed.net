@@ -1,0 +1,19 @@
+* Z:\home\eric\Documents\MADVLSI\Imager\pixel_lvs2.asc
+MXU1 POS N002 N005 0 nfet W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU4 N005 RS N007 0 nfet W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU2 POS Reset N001 0 nfet W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+MXU3 N002 Shutter N001 0 nfet W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU5 POS N012 N009 0 nfet W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU6 N009 RS2 N007 0 nfet W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU7 POS Reset N011 0 nfet W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+MXU8 N012 Shutter N011 0 nfet W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU9 POS N003 N006 0 nfet W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU10 N006 RS N008 0 nfet W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU11 POS Reset N004 0 nfet W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+MXU12 N003 Shutter N004 0 nfet W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU13 POS N013 N010 0 nfet W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU14 N010 RS2 N008 0 nfet W=.9u L=.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+MXU15 POS Reset N014 0 nfet W=0.9u L=0.6u ad=10.8p as=508p pd=7.2u ps=350u
+MXU16 N013 Shutter N014 0 nfet W=0.9u L=0.6u ad=10.8p as=10.8p pd=7.2u ps=7.2u
+.backanno
+.end

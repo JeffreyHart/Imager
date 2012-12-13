@@ -1,0 +1,72 @@
+* SPICE3 file created from pixel_lvs.ext - technology: scmos
+
+M1000 a_38_47# a_55_23# a_58_47# w_32_n57# nfet w=0.9u l=0.6u
++ ad=126.72p pd=64.2u as=1.71p ps=5.4u 
+M1001 w_32_n24# a_45_36# a_38_47# w_32_n57# nfet w=0.9u l=0.6u
++ ad=21.78p pd=60.6u as=0p ps=0u 
+M1002 a_86_60# a_55_23# a_103_60# w_32_n57# nfet w=0.9u l=0.6u
++ ad=126.45p pd=64.2u as=1.71p ps=5.4u 
+** SOURCE/DRAIN TIED
+M1003 a_86_60# a_68_47# a_86_60# w_32_n57# nfet w=0.9u l=0.3u
++ ad=0p pd=0u as=0p ps=0u 
+M1004 a_86_60# a_45_36# w_32_n24# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1005 a_60_49# a_58_47# w_32_n24# w_32_n57# nfet w=0.9u l=0.6u
++ ad=2.16p pd=6.6u as=0p ps=0u 
+M1006 a_39_n42# a_68_47# a_60_49# w_32_n57# nfet w=0.9u l=0.6u
++ ad=8.55p pd=27u as=0p ps=0u 
+M1007 a_101_49# a_68_47# a_90_n34# w_32_n57# nfet w=0.9u l=0.6u
++ ad=2.16p pd=6.6u as=8.55p ps=27u 
+M1008 w_32_n24# a_103_60# a_101_49# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1009 a_60_39# a_58_36# w_32_n24# w_32_n57# nfet w=0.9u l=0.6u
++ ad=2.16p pd=6.6u as=0p ps=0u 
+M1010 a_39_n42# a_68_34# a_60_39# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1011 a_101_39# a_68_34# a_90_n34# w_32_n57# nfet w=0.9u l=0.6u
++ ad=2.16p pd=6.6u as=0p ps=0u 
+M1012 w_32_n24# a_103_27# a_101_39# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1013 w_32_n24# a_45_36# a_38_n1# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=126.72p ps=64.2u 
+** SOURCE/DRAIN TIED
+M1014 a_86_n1# a_68_34# a_86_n1# w_32_n57# nfet w=0.9u l=0.3u
++ ad=126.45p pd=64.2u as=0p ps=0u 
+M1015 a_58_36# a_55_23# a_38_n1# w_32_n57# nfet w=0.9u l=0.6u
++ ad=1.71p pd=5.4u as=0p ps=0u 
+M1016 a_86_n1# a_45_36# w_32_n24# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1017 a_103_27# a_55_23# a_86_n1# w_32_n57# nfet w=0.9u l=0.6u
++ ad=1.71p pd=5.4u as=0p ps=0u 
+M1018 a_49_n43# a_47_n19# w_32_n24# w_32_n24# pfet w=0.9u l=0.6u
++ ad=1.71p pd=5.4u as=3.42p ps=10.8u 
+M1019 a_74_n17# a_72_n24# a_49_n43# w_32_n57# nfet w=0.9u l=0.6u
++ ad=3.42p pd=10.8u as=3.42p ps=10.8u 
+M1020 a_97_n17# a_86_n51# a_74_n17# w_32_n57# nfet w=0.9u l=0.6u
++ ad=3.42p pd=10.8u as=0p ps=0u 
+M1021 w_32_n24# a_47_n19# a_97_n17# w_32_n24# pfet w=0.9u l=0.6u
++ ad=0p pd=0u as=1.71p ps=5.4u 
+M1022 w_32_n57# a_64_n45# a_39_n42# w_32_n57# nfet w=0.9u l=0.6u
++ ad=3.96p pd=12u as=0p ps=0u 
+M1023 a_46_n41# w_32_n24# a_39_n42# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0.81p pd=3.6u as=0p ps=0u 
+M1024 a_49_n43# a_49_n43# a_46_n41# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1025 a_39_n42# a_64_n45# w_32_n57# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1026 w_32_n57# a_64_n45# a_90_n34# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1027 a_90_n34# a_64_n45# w_32_n57# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+M1028 a_120_n41# a_97_n17# a_97_n17# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0.81p pd=3.6u as=0p ps=0u 
+M1029 a_90_n34# w_32_n24# a_120_n41# w_32_n57# nfet w=0.9u l=0.6u
++ ad=0p pd=0u as=0p ps=0u 
+C9 a_68_47# w_32_n57# 6.7fF
+C10 w_32_n57# a_55_23# 9.1fF
+C11 a_39_n42# a_38_n1# 2.3fF
+C12 a_47_n19# w_32_n57# 3.5fF
+C13 a_39_n42# w_32_n57# 7.7fF
+C14 a_72_n24# w_32_n57# 2.2fF
+C15 a_47_n19# w_32_n24# 2.7fF
+C16 a_90_n34# w_32_n57# 6.6fF
